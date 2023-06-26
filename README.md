@@ -15,3 +15,5 @@ module grey(
 
 endmodule
 ```
+![image](https://github.com/sarveshjustin/grey/assets/113497481/248bbb15-70d0-429e-9cdc-d4f3e2eadac6)
+
